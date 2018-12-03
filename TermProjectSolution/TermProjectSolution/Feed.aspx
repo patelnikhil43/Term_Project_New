@@ -28,6 +28,7 @@
                 <li><a href="FindFriends.aspx">Find Friends</a></li>
                 <li><a href="Preferences.aspx">Preferences</a></li>
                 <li><a href="FriendRequests.aspx">Friend Requests</a></li>
+                <li><a href="Messages.aspx">Messages</a></li>
                 <li></li>
             </ul>
         </div>
