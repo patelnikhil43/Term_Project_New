@@ -22,3 +22,9 @@ C:\Users\Nikhil\Downloads\TermProjectSolution\TermProjectSolution\TermProjectSol
 C:\Users\Nikhil\Downloads\TermProjectSolution\TermProjectSolution\TermProjectSolution\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\Nikhil\Downloads\TermProjectSolution\TermProjectSolution\TermProjectSolution\Utilities\obj\Debug\Utilities.dll
 C:\Users\Nikhil\Downloads\TermProjectSolution\TermProjectSolution\TermProjectSolution\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\bin\Debug\Utilities.dll
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\obj\Debug\Utilities.dll
+C:\Users\Nikhil\Desktop\LatestProject\Term_Project_New\TermProjectSolution\Utilities\obj\Debug\Utilities.pdb
