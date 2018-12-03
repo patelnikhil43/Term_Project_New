@@ -16,7 +16,7 @@ namespace TermProjectSolution
         SqlCommand objCommand = new SqlCommand();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //load friends into gridview from this method
         }
 
         public void LoadMessages()

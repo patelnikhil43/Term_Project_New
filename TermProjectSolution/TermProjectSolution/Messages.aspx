@@ -8,7 +8,33 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div id="friendsContainer">
+                <%--use a custom user control here?--%>
+                <asp:GridView ID="gvFriends" runat="server" AutoGenerateColumns="false" Visible="False">
+                    <Columns>
+                        <asp:BoundField DataField="name" HeaderText="Name" />
+                        <asp:BoundField DataField="email" HeaderText="Email" />
+                        <asp:BoundField DataField="state" HeaderText="State" />
+                        <asp:BoundField DataField="organization" HeaderText="Organization" />
+                        <asp:TemplateField HeaderText="Profile Picture">
+                            <ItemTemplate>
+                                <asp:Image ID="imgProfilePic" runat="server" />
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                        <asp:TemplateField HeaderText="Send Message">
+                            <ItemTemplate>
+                                <asp:Button ID="btnSendMessage" runat="server" Text="Send Message" />
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                        <asp:TemplateField HeaderText="View Profile">
+                            <ItemTemplate>
+                                <asp:Button ID="btnViewProfile" runat="server" Text="View Profile" />
+                            </ItemTemplate>
+                        </asp:TemplateField>
+                    </Columns>
+                </asp:GridView>
+        </div>
+        <div id="messageContainer">
             <asp:Label ID="lblSendMessage" runat="server" Text="Type a friend's email adress and send them a message!"></asp:Label>
             <br />
             <asp:Label ID="lblEmail" runat="server" Text="Email:"></asp:Label>
